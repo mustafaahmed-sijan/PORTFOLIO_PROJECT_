@@ -3,7 +3,7 @@
 ## 👋 About Me
 A passionate software engineer focused on building modern, scalable, and user-friendly web applications.
 
-![Profile Image](https://github.com/mustafaahmed-sijan/PORTFOLIO_PROJECT_/blob/3e8ca7442c98f054826191c866ae3737a794f82c/PROJECT%20NO%3A%201%20-%20PORTFOLIO%20(ARABIC%20DESIGN)/SCREENSHOT/Screenshot%202026-05-17%20005856.jpg)
+
 
 ---
 
@@ -21,7 +21,7 @@ A passionate software engineer focused on building modern, scalable, and user-fr
 ### Project 1: Portfolio Website
 A modern personal portfolio showcasing my work and skills.
 
-![Project Screenshot](./assets/project1.jpg)
+![Project Screenshot](https://github.com/mustafaahmed-sijan/PORTFOLIO_PROJECT_/blob/3e8ca7442c98f054826191c866ae3737a794f82c/PROJECT%20NO%3A%201%20-%20PORTFOLIO%20(ARABIC%20DESIGN)/SCREENSHOT/Screenshot%202026-05-17%20005856.jpg)
 
 ### Project 2: E-Commerce App
 Full-stack shopping platform with authentication and payment integration.
