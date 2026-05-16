@@ -3,7 +3,7 @@
 ## 👋 About Me
 A passionate software engineer focused on building modern, scalable, and user-friendly web applications.
 
-![Profile Image](./assets/profile.jpg)
+![Profile Image](https://github.com/mustafaahmed-sijan/PORTFOLIO_PROJECT_/blob/3e8ca7442c98f054826191c866ae3737a794f82c/PROJECT%20NO%3A%201%20-%20PORTFOLIO%20(ARABIC%20DESIGN)/SCREENSHOT/Screenshot%202026-05-17%20005856.jpg)
 
 ---
 
@@ -13,7 +13,7 @@ A passionate software engineer focused on building modern, scalable, and user-fr
 - Database Management (MySQL, MongoDB)
 - UI/UX Design & Responsive Web Design
 
-![Skills Banner](.https://github.com/mustafaahmed-sijan/PORTFOLIO_PROJECT_/blob/3e8ca7442c98f054826191c866ae3737a794f82c/PROJECT%20NO%3A%201%20-%20PORTFOLIO%20(ARABIC%20DESIGN)/SCREENSHOT/Screenshot%202026-05-17%20005856.jpg)
+
 
 ---
 
